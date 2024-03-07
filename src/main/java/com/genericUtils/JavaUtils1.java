@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
-public class JavaUtils {
+public class JavaUtils1 {
 /**
  * This method is used to append the RandomNumber
  * @author Administrator
